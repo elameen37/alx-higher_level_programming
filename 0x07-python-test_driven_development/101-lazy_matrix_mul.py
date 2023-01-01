@@ -9,10 +9,13 @@ import numpy as np
 
 
 def lazy_matrix_mul(m_a, m_b):
-    """Return: a nex matrix with the product of m_a and m_b
+    """Return the multiplication of two matrices.
     Args:
-    param1: m_a type list of list is a matrix
-    param2: m_b type list of list is a matrix
-    Raise: TypeError, ValueError
+        m_a (list of lists of ints/floats): The first matrix.
+        m_b (list of lists of ints/floats): The second matrix.
     """
+
     return (np.matmul(m_a, m_b))
+
+
+
