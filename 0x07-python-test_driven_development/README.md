@@ -22,5 +22,3 @@ At the end of this project, I was able to solve these questions:
 6. Function that multiplies 2 matrices:
 7. Function that multiplies 2 matrices by using the module NumPy
 8. Function that prints Python strings.
-9. Class Square that defines a square by: (based on 4-square.py)
-10. Python class MagicClass
