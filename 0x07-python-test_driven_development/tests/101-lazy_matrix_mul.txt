@@ -2,7 +2,7 @@
 101-lazy_matrix_mul
 ======================
 
-Lazy Matrix multiplication  module is the unit test that verifies matrix mul function created using numpy
+Lazy Matrix multiplication module is the unit test that verifies matrix mul function created using numpy
 
 =====================
 
