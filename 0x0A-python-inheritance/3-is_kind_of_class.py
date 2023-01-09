@@ -1,6 +1,8 @@
 #!/usr/bin/python3
+"""Define an is_kind_of_class class"""
+
 def is_kind_of_class(obj, a_class):
-    """function to check is obj is the same kind of class
+    """function to check if obj is the same kind of class
     Arguments:
         param1: obj
         param2: a_class that matches the obj
