@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Define a function that adds attribute to an object"""
 
 
 def add_attribute(obj, attribute, value):
