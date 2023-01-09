@@ -5,5 +5,3 @@ class BaseGeometry:
     """Type class of BaseGeometry"""
 
     pass
-	
-print("")
