@@ -2,11 +2,7 @@
 """Define an inherited list class MyList."""
 
 class MyList(list):
-    """class MyList that inherits from list"""
-	
+    """Type class MyList with print_sorted function"""
+
     def print_sorted(self):
-        """Public instance method that prints sorted list"""
-		
-        list_copy = self[:]
-        list_copy.sort()
-        print(list_copy)
+        print(sorted(self))
