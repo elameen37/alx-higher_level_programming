@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Define an inherited list class MyList."""
+"""Define an inherited list class MyList"""
 
 class MyList(list):
     """Type class MyList with print_sorted function"""
