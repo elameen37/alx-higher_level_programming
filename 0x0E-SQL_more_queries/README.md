@@ -3,7 +3,7 @@
 
 ## Usage :dolphin:
 
-* Scripts [3-force_name.sql](./3-force_name.sql) forward take the database to query from
+* Scripts [3-force_name.sql](./3-force_name.sql) - take the database to query from, 
 as a MySQL command line argument.
 
 ```
