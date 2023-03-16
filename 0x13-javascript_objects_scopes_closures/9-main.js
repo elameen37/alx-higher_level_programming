@@ -2,5 +2,5 @@
 const logMe = require('./9-logme').logMe;
 
 logMe("Hello");
-logMe("Best");
+logMe("Bests");
 logMe("School");
