@@ -34,7 +34,7 @@ framework to interact with the [Star Wars](https://swapi.co/),
   Star Wars API to print the number of movies featuring the character "Wedge Antilles".
   * Usage: `./4-starwars_count.js http://swapi.co/api/films/`.
 
-* **5. Loripsum**
+* ,,,,,]]]**5. Loripsum**
   * [5-request_store.js](./5-request_store.js): JavaScript script that stores the
   contents of a webpage in a file.
   * Usage: `./5-request_store.js <URL to get> <file path to store content in>`.
@@ -45,8 +45,7 @@ framework to interact with the [Star Wars](https://swapi.co/),
   * Usage: `./6-completed_tasks.js https://jsonplaceholder.typicode.com/todos`.
 
 * **7. Who was playing in this movie?**
-  * [100-starwars_characters.js](./100-starwars_characters.js): JavaScript script
-  that uses the Star Wars API to print all characters featured in a given movie.
+  * [100-starwars_characters.js](./100-starwars_characters.js): Write a script that prints all characters of a Star Wars movie
   * Usage: `./100-starwars_characters.js <movie ID>`.
 
 * **8. Right order**
@@ -54,10 +53,3 @@ framework to interact with the [Star Wars](https://swapi.co/),
   that uses the Star Wars API to print all characters featured in a given movie in
   the same order as they are listed in the `characters` list of the `/films/` response.
   * Usage: `./101-starwars_characters.js <movie ID>`.
-
-* **9. Twitter Auth**
-  * [102-search_twitter.js](./102-search_twitter.js): JavaScript script that sends
-  a search request to the Twitter API with a given search string.
-  * Usage: `./102-search_twitter.js <consumer  key> <consumer secret> <search string>.
-  * Outputs 5 results in the format `[<Tweet ID>] <Tweet text> by <Tweet owner name>`.
-
